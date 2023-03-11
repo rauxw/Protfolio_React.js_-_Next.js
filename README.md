@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](Pictures/portfolio.png)
+<img src="Pictures/portfolio.PNG" width="128"/>
