@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](/Pictures/portfolio.png)
+![Portfolio Website](Pictures/portfolio.png)
